@@ -1,21 +1,15 @@
-<div>
-  <h1>Hi, I'm Ignacio!.</h1>
-  <p>I'm a Software Developer, with a focus on Backend and interest in Devops. <a href="[Link to your resume]">View resume</a>.</p>
+# 💫 About Me:
+I'm a Software Developer, with a focus on Backend and interest in Devops.
 
-  <h2>GitHub Profile Summary</h2>
-  <!-- Replace "yourusername" with your actual GitHub username -->
-  <p>
-    <a href="https://github.com/tipsy/profile-summary-for-github">
-      <img src="https://github-readme-stats.vercel.app/api?username=Igbescobar&show_icons=true&hide_border=true" alt="Your GitHub Stats" />
-    </a>
-  </p>
-  <p><em>Above stats generated with: <a href="https://github.com/tipsy/profile-summary-for-github">tipsy/profile-summary-for-github</a></em></p>
 
-  <h2>Recent Projects</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=igbescobar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=igbescobar&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=igbescobar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <h3><a href="[Link to repository]">homelab-environment</a> (CasaOS / Docker)</h3>
-  <p>A personal home server configuration built to efficiently manage self-hosted applications, streamline data storage, and deploy automated network services.</p>
+---
+[![](https://komarev.com/ghpvc/?username=igbescobar&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  <h3><a href="[Link to repository]">[Project Name 2]</a> ([Tech Stack])</h3>
-  <p>[A brief 1-2 sentence description of what the project does, its main features, and the problems it solves, similar to Mithi's app descriptions.]</p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
