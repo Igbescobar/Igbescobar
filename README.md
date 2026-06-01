@@ -1,76 +1,21 @@
-<div align="center">
+<div>
+  <h1>Hi, I'm Ignacio!.</h1>
+  <p>I'm a Software Developer, with a focus on Backend and interest in Devops. <a href="[Link to your resume]">View resume</a>.</p>
 
-# Ignacio González-Bueno
-Backend Developer • Java • C/C++ • Systems Programming
-Currently studying at 42 Madrid
+  <h2>GitHub Profile Summary</h2>
+  <!-- Replace "yourusername" with your actual GitHub username -->
+  <p>
+    <a href="https://github.com/tipsy/profile-summary-for-github">
+      <img src="https://github-readme-stats.vercel.app/api?username=Igbescobar&show_icons=true&hide_border=true" alt="Your GitHub Stats" />
+    </a>
+  </p>
+  <p><em>Above stats generated with: <a href="https://github.com/tipsy/profile-summary-for-github">tipsy/profile-summary-for-github</a></em></p>
 
+  <h2>Recent Projects</h2>
+
+  <h3><a href="[Link to repository]">homelab-environment</a> (CasaOS / Docker)</h3>
+  <p>A personal home server configuration built to efficiently manage self-hosted applications, streamline data storage, and deploy automated network services.</p>
+
+  <h3><a href="[Link to repository]">[Project Name 2]</a> ([Tech Stack])</h3>
+  <p>[A brief 1-2 sentence description of what the project does, its main features, and the problems it solves, similar to Mithi's app descriptions.]</p>
 </div>
-
----
-
-## About Me
-
-I studied Marketing & Digital Communication before transitioning into software development.
-
-Since then, I've worked professionally as a Backend Developer using Java and Spring Boot, building APIs, ETL processes and microservice-based solutions.
-
-I'm currently studying at 42 Madrid, focusing on systems programming, algorithms and software development in C and C++.
-
----
-
-## Current Focus
-
-- Systems Programming
-- C / C++
-- Linux
-- Software Architecture
-- Backend Development
-
----
-
-## Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Backend
-
-![Spring](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot)
-![REST](https://img.shields.io/badge/REST_APIs-black?style=for-the-badge)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-
----
-
-## Featured Projects
-
-### Minishell
-
-### Philosophers
-
-
----
-
-## GitHub Stats
-
-<p align="center"> 
-  <img height="170" src="https://streak-stats.demolab.com?user=Igbescobar" />
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=Igbescobar" />
-</p>
-
----
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/Igbescobar)
-
-[GitHub](https://github.com/Igbescobar)
