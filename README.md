@@ -1,11 +1,7 @@
 <div align="center">
 
 # Ignacio González-Bueno
-
-### Software Developer
-
 Backend Developer • Java • C/C++ • Systems Programming
-
 Currently studying at 42 Madrid
 
 </div>
@@ -59,34 +55,16 @@ I'm currently studying at 42 Madrid, focusing on systems programming, algorithms
 
 ### Minishell
 
-A Unix shell developed in C that reproduces core Bash functionality including:
-
-- Parsing
-- Pipes
-- Redirections
-- Signals
-- Process management
-
 ### Philosophers
 
-Concurrency and synchronization project focused on:
-
-- Threads
-- Mutexes
-- Deadlock prevention
-- Race conditions
-
-### CinemXperience
-
-Full-stack movie platform powered by the TMDB API.
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Igbescobar&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igbescobar&layout=compact&hide_border=true" />
+<p align="center"> 
+  <img height="170" src="https://streak-stats.demolab.com?user=Igbescobar" />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=Igbescobar" />
 </p>
 
 ---
