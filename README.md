@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Igbescobar}/count.svg" alt="Visitor's Count" />
+  <img src="https://count.getloli.com/get/@Igbescobar?theme=rule34" alt="Visitor Count" />
 </div>
 
 ## 🛠️ Languages and Tools
