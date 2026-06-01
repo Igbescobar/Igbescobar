@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://count.getloli.com/get/@Igbescobar?theme=rule34" alt="Visitor Count" />
+  <img src="https://profile-counter.deno.dev/Igbescobar/count.svg" alt="Visitor Count" />
 </div>
 
 ## 🛠️ Languages and Tools
