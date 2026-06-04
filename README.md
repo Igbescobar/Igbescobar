@@ -7,7 +7,6 @@ I'm a Software Developer, with a focus on Backend and interest in Devops.
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=igbescobar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" height="115" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=igbescobar&theme=gruvbox&hide_border=false" height="115" alt="GitHub Streak" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=igbescobar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="115" alt="Top Languages" />
 </p>
 
